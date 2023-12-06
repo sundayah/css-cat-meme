@@ -1,0 +1,33 @@
+h1 {
+    font-weight:100;
+    text-transform: capitalize;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+}
+
+* {
+    background-color: black;
+}
+
+p {
+    text-transform:uppercase;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    font-size:larger;
+}
+
+.catto-with-lettuce {
+    border: 10px solid white;
+    width: 50%;
+}
+
+.poster {
+    margin-top:70px;
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+    text-align: center;
+}
